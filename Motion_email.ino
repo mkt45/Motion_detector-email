@@ -1,3 +1,9 @@
+/**
+According to the motion detection made by the ultrasonic sensor a warning message is print.
+This message is used to send an e-mail by a Python program.
+
+**/
+
 // define some values used by the panel and buttons
 #define trigPin 12                                                                        // Pin 12 trigger output
 #define echoPin 11                                                                      // Pin 2 Echo input
